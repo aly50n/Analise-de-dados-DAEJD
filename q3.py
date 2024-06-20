@@ -1,7 +1,7 @@
 import pandas as pd
 from scipy.stats import ttest_rel, f_oneway
 
-# Dados de frequência cardíaca pré-jogo e pós-jogo para cada jogo
+# Dados da pressão arterial pré-jogo e pós-jogo para cada jogo
 data_pre_jogo_inside = {
     'ID_Jogador': ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
                    '11', '12', '13', '14', '15', '16', '17', '18', '19', '20'],
