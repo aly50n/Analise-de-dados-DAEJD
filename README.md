@@ -1,4 +1,4 @@
-# Analise de dados detecção e avaliação de estresse em jogos eletrônicos (DAEJE)
+# Analise de dados das questões do trabalho de conclusão de curso: Detecção e avaliação de estresse em jogos eletrônicos (DAEJE)
 • QP1. Como as respostas emocionais dos jogadores variam antes e após sessões de
 diferentes estilos de jogos digitais, conforme avaliado pela DASS-21?
 
